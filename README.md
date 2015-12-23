@@ -1,4 +1,4 @@
-# Emoji One - legacy
+# Emoji One - Legacy Art Files
 
 Looking for our primary repository?
 Go to https://github.com/Ranks/emojione
