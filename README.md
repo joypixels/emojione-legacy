@@ -5,6 +5,15 @@ Go to https://github.com/Ranks/emojione
 
 This repo was setup for anyone still needing access to our version 1.0 emoji set.  It's no longer supported or updated.
 
+## jsDelivr CDN
+
+If you're using version 1.5.2 code and would like a CDN link to the legacy assets you can use the following for our SVGs and PNGs.
+
+```
+//cdn.jsdelivr.net/emojione/assets/1.5.2/png/
+//cdn.jsdelivr.net/emojione/assets/1.5.2/svg/
+```
+
 ## Licenses
 
 ### Emoji One Artwork
